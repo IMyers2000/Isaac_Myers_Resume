@@ -2,8 +2,11 @@
 layout: cv
 title: Brigham Young's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+## Isaac C. Myers
+
+## Objective
+To secure an intern opportunity as a Political Science/Data Science Analyst utilizing my strong research skills, knowledge of political systems, and data analysis skills to develop meaningful insights that can be used to inform policy decisions. 
+
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -16,74 +19,33 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
+Brigham Young University - Idaho__April 2020 – Present__Rexburg, Idaho
+Bachelor's Degree of Political Science__Emphasis in Foreign Affairs	
+•	Relevant courses: Comparative Politics, International Politics, American Government, Public Policy, Advanced International Theory, Research Methods, Decision and Leadership Skills.
+Developed interest specifically in public policy with actions taken by governments, NGOs, and individuals that influence and manage outcomes related to social, economic, and environmental issues. Intrigued with evaluating policy initiatives, applied research methods to policy making, and developing strategies for public engagement.  Additionally, excited by the relationship between states and other actors in the international system and the motivations and causes of international cooperation and conflict.
+•	Data Science Minor: Ability to analyze data sets to identify trends, patterns to help inform on policy decisions.
+- 3.4 Major GPA
 
 ## Related Experience
 
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+Data Analyst__MetaSource__Draper, Utah__August 2022 - Present
+•	Acquired knowledge and proficiency in analytics that improved operational information related to contractual service levels and staff development.
+•	Participant in the formation of a new quality control group focused on verifying the quality of scanned images and indexes to ensure they met the company standards.
+Customer__Support__Agent__MetaSource__Draper, Utah__May 2020 - February 2022
+•	Developed skills specific to inbound call inquires related to account statuses and worked with customers on adjustments, payments, and settlements. 
+Transaction Processor__Xerox__Remote, Utah__May 2019 - August 2019
+•	Gained experience working in a team environment that focused on data capture of medical claims. Achieved high standards in quality and productivity.
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+Full-Time Volunteer Representative__Colorado Springs, CO__December 2019 - March 2020
+•	Served as a missionary for The Church of Jesus Christ of Latter-Day Saints. 
+Volunteer__St. Luke's Hospital__St. Charles, MO__August 2015 - February 2018
+•	Served 2 years at St. Luke's Hospital in various support capacities. Ranging from Pharmaceutical Assistant, Front Desk Clerk, and assistant in the Neurology Sleep Lab.
 
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
-
+## Skills
+Proficient at Microsoft Office | Intermediate SQL | Adept with Data Analysis | Political Communication Adaptability | Organization | Teamwork | Time Management | Leadership | Public Administration Dedicated | Dependable | Database Management | Research Methods | Concept and Theory Discussions
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
 
