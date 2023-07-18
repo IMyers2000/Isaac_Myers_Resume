@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Isaac Myers' Resume
 ---
 ## Isaac C. Myers
 
